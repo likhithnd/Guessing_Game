@@ -1,6 +1,6 @@
 # Guessing_Game
-🔢 Number Guessing Game (Python Project)
-🎮 Project Description:
+# 🔢 Number Guessing Game (Python Project)
+# 🎮 Project Description:
 This is a fun and interactive Number Guessing Game developed using Python. The player is asked to guess a randomly generated number between 1 and 100. After each guess, the program gives hints to guide the player—like whether the actual number is higher or lower than the guessed number. The game continues until the player correctly guesses the number.
 
 It also keeps track of the number of attempts, so the player can see how many tries it took to guess the correct answer!
